@@ -21,7 +21,7 @@ function ternaryCheckCity(city){
   }
 }
 
-function switchOnCharmFromTip(){
+function switchOnCharmFromTip(yip){
   // Write your code here!
   switch (tip) {
     case "generous":
