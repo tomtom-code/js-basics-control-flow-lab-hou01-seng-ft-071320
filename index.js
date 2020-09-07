@@ -6,7 +6,7 @@ function scuberGreetingForFeet(feet) {
   } if (feet > 2000) {
     greeting = 'I will gladly take your thirty bucks.';
   } elseif (feet >2500) {
-    greeting = 'NO can do'
+    greeting = 'No can do'
   }
   return greeting
 }
