@@ -1,5 +1,10 @@
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(feet) {
   // Write your code here!
+  let greeting
+  if (feet <= 400) {
+    greeting = 'This one is on me!';
+  }
+  
 }
 
 function ternaryCheckCity(){
