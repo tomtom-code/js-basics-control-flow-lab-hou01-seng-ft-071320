@@ -8,7 +8,7 @@ function scuberGreetingForFeet(feet) {
   } 
   return greeting
 
-  
+
 
 }
 
