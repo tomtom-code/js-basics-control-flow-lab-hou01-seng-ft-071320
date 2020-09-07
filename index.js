@@ -2,13 +2,13 @@ function scuberGreetingForFeet(feet) {
   // Write your code here!
   let greeting
   if (feet <= 400) {
-    greeting = 'This one is on me!';
-  } if (2500 > feet || feet > 2000) {
-    greeting = 'I will gladly take your thirty bucks.';
-  } else if (feet > 2500) {
-    greeting = 'No can do.';
+    return greeting = 'This one is on me!';
+  } else if (1999< feet && feet < 2500) {
+    return greeting = 'I will gladly take your thirty bucks.';
+  } else {
+    return greeting = 'No can do.';
   }
-  return greeting
+
 }
 
 function ternaryCheckCity(){
